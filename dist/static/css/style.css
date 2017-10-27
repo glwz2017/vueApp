@@ -1,0 +1,16 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+ul,ol{
+  list-style: none;
+}
+input{
+  outline:none;
+}
+a{
+  text-decoration:none;
+}
+html,body{
+  font-size:20px;
+}
